@@ -1,0 +1,9 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment
+venv/
+
+# Optional: ignore VS Code settings (if not collaborating)
+.vscode/
